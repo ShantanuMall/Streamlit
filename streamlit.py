@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Select the index you want to view")
 
 options1 = ['Vikram Farm Block 26A']
 options2 = ['22-June-2023']
